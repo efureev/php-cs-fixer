@@ -1,5 +1,5 @@
 {
-    "name": "avto-dev/php-cs-fixer",
+    "name": "efureev/php-cs-fixer",
     "description": "A tool to automatically fix PHP code style",
     "keywords": [
         "codestyle",
