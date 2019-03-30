@@ -1,31 +1,30 @@
 {
-    "name": "efureev/php-cs-fixer",
+    "name": "feugene/php-cs-fixer",
     "description": "A tool to automatically fix PHP code style",
     "keywords": [
         "codestyle",
         "cs",
-        "fixer",
-        "avto-dev"
+        "fixer"
     ],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Avto Develop",
-            "homepage": "https://github.com/avto-dev"
+            "name": "Eugene Fureev",
+            "homepage": "https://github.com/efureev"
         }
     ],
     "require": {
         "php": "^5.6 || >=7.0",
-        "efureev/PHP-CS-Fixer-1": "^2.13"
+        "friendsofphp/php-cs-fixer": "^2.13"
     },
     "require-dev": {},
     "config": {
         "sort-packages": true
     },
     "support": {
-        "issues": "https://github.com/avto-dev/php-cs-fixer/issues",
-        "source": "https://github.com/avto-dev/php-cs-fixer"
+        "issues": "https://github.com/efureev/php-cs-fixer/issues",
+        "source": "https://github.com/efureev/php-cs-fixer"
     },
     "bin": [
         "cs-fix"
