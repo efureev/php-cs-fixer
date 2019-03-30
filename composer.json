@@ -12,6 +12,10 @@
         {
             "name": "Eugene Fureev",
             "homepage": "https://github.com/efureev"
+        },
+        {
+            "name": "Avto Develop",
+            "homepage": "https://github.com/avto-dev"
         }
     ],
     "require": {
